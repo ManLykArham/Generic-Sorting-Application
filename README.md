@@ -36,6 +36,12 @@ In this project, I developed a **generic implementation** of the **selection sor
 
 ---
 
+## 📸 Screenshots
+
+![Generic Sorting Application Screenshot](assets/screenshot.png)
+
+---
+
 ## 🏆 Achievements
 
 Through this project, I deepened my understanding of **sorting algorithms**, particularly the **selection sort**, and explored how **generics** in C# can be leveraged for adaptability. By applying sorting algorithms to both integers and custom objects, I sharpened my ability to create **versatile, reusable code**. This project also helped me appreciate the importance of **algorithmic efficiency**, especially in diverse use cases.
